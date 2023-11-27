@@ -1,4 +1,17 @@
 # Kelompok-5_DayaTech
+## Nama Anggota
+    1.	Dian Novitasari (21050974006)
+    2.	Adib Bagus Subarkah (21050974039)
+    3.	Yurie Enggarnisa (21050974050)
+    4.	Adinda Amelia Putri (21050974056)
+
+# Dayatech
+## Deskripsi
+Implementasi cloud computing nextcloud dengan proxmox menggunakan virtual mesin untuk perkantoran yang bernama “Dayatech” merupakan website dari situs nextcloud yang menggunakan penyimpanan cloud secara local yang dapat membantu dalam mempermudah pekerjaan para pekerja pada sebuah perkantoran yang di desain secara userfriendly pada website dari situs nextcloud daya ini memiliki beberapa fitur yang pertama adalah para pekerja dapat saling mengirim pesan, dan semua berkas contohnya seerti dokumen, foto, video, music, dan dapat mebuat grub untuk sebuah grub tertentu yang dapat mengakses semua berkas yang di upload ke dalam grub tersebut. Dayatech juga dapat menandai berkas yang di favoritkan.
+
+## Tujuan dan Fungsi
+    1. Menghemat penyimpanan data perusahaan ke dalam cloud computing proxmox.
+    2. Memudahkan penggunanya untuk menjalankan program tanpa harus menginstall terlebih dahulu dan memudahkan pengguna untuk mengakses data dan informasi melalui internet.
 
 # Proxmox
 ## fitur-fitur proxmox
