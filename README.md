@@ -21,5 +21,6 @@ Dapat menginputkan Template NextCLoud dengan cara create CT Templates
    ## <img width="960" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/68110094-8ce1-43b8-bd8b-220146acc20b">
    * 3.4 Musik
    ## <img width="959" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/acb303cd-774f-42c0-ae42-9379bbb8e239">
-
+4. Menambahkan berkas favorit
+   ## <img width="956" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/8ae05c02-874e-4d21-9633-490a7c2953bb">
 
