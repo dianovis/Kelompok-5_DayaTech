@@ -5,6 +5,9 @@
     3.	Yurie Enggarnisa (21050974050)
     4.	Adinda Amelia Putri (21050974056)
 
+## Link Website Pendidikan Teknologi Informasi
+https://pendidikan-ti.ft.unesa.ac.id/
+
 # Dayatech
 ## Deskripsi
 Implementasi cloud computing nextcloud dengan proxmox menggunakan virtual mesin untuk perkantoran yang bernama “Dayatech” merupakan website dari situs nextcloud yang menggunakan penyimpanan cloud secara local yang dapat membantu dalam mempermudah pekerjaan para pekerja pada sebuah perkantoran yang di desain secara userfriendly pada website dari situs nextcloud daya ini memiliki beberapa fitur yang pertama adalah para pekerja dapat saling mengirim pesan, dan semua berkas contohnya seerti dokumen, foto, video, music, dan dapat mebuat grub untuk sebuah grub tertentu yang dapat mengakses semua berkas yang di upload ke dalam grub tersebut. Dayatech juga dapat menandai berkas yang di favoritkan.
