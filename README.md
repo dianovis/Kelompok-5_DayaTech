@@ -36,6 +36,59 @@ Dapat menginputkan Template NextCLoud dengan cara create CT Templates
    ## <img width="959" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/acb303cd-774f-42c0-ae42-9379bbb8e239">
 4. Menambahkan berkas favorit
    ## <img width="956" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/8ae05c02-874e-4d21-9633-490a7c2953bb">
+## Langkah-langkah instal next cloud
+1. Uploud CT Template
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/292b9069-0f82-4299-9aa3-5de6a72ac03e)
+2. Create CT
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/b75e6a2d-044a-478d-976c-b41b88d29196)
+3. Setting pada general
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/b31f707c-068b-431f-a875-15a208606b88)
+4. Setting pada Tamplate
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/57b82575-2678-4d16-a74c-10de912c9d74)
+5. Setting Disk
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/e6673ae2-2723-4480-97a3-6a28c6456b60)
+6. Setting CPU
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/732cfe3d-30dd-435f-bbd1-260b52e877a0)
+7. Setting Memory
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/bac2cc13-bfd0-4826-8ebf-03b5e2e9dccd)
+8. Setting Network
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/df41b0a4-829f-4a4d-a3a8-4daf0f0ea73d)
+9. Setting DNS
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/6011df1a-41dc-4be3-9106-161d081d82e0)
+10. Confirm
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/f13cba07-e58b-4c43-85ac-4afe8e0e6f1e)
+11. Tunggu hingga selesai (task ok)
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/6446e5a8-8bc6-460d-b989-0b454b4a994e)
+12. running nextcloud pada console yang sudah terpasang
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/8cf14e6b-08db-425d-a9d1-732ddef775ca)
+13. Buat Password baru untuk nextcloud
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/a711916b-1520-48eb-a1da-36b4b959112f)
+14. ulangi masukkan Password baru untuk nextcloud
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/7e6b6028-8199-4c3d-8926-599c9b8118ae)
+15. Ulangi kembali masukkan password
+## ![image](https://github.com/dianovis/Kelompok-5_DayaTech/assets/116284533/be55ebf6-187d-4ef1-b728-358024bc3af8)
+16. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Menambahkan berkas favorit
+   ## <img width="956" alt="image" src="https://github.com/dianovis/Kelompok-5_DayaTech/assets/116280719/8ae05c02-874e-4d21-9633-490a7c2953bb">
+
 
 # Langkah-langkah install Proxmox di VirtualBox
 1. download virtual box dari internet https://www.virtualbox.org/wiki/Downloads
